@@ -1,11 +1,11 @@
 # Personal Profile Web Application
 
 ## CSC584 Individual Assignment 1
-Name: MUHAMMAD MUARIF WAFIY BIN SARBAYNI
-Student ID: 2026118287
-Programme: CS230 - Bachelor of Computer Science
-Course code: CSC584 - Enterprise Programming
-Lecturer name: MUHAMAD RIDHWAN MOHAMAD RAZALI
+- Name: MUHAMMAD MUARIF WAFIY BIN SARBAYNI
+- Student ID: 2026118287
+- Programme: CS230 - Bachelor of Computer Science
+- Course code: CSC584 - Enterprise Programming
+- Lecturer name: MUHAMAD RIDHWAN MOHAMAD RAZALI
 
 ---
 
