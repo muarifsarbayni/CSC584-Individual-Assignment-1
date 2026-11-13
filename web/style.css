@@ -1,0 +1,110 @@
+
+body {
+    background-color: #120d1a;
+    color: #e0d9f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #1c152d;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    max-width: 500px;
+    border: 1px solid #362953;
+}
+
+h2 {
+    color: #c09bff;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #bfaee3;
+    font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    background-color: #120d1a;
+    border: 1px solid #483770;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    border-color: #8c52ff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(140, 82, 255, 0.4);
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #7b2cbf;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #9d4edd;
+}
+
+.profile-details p {
+    background-color: #120d1a;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border: 1px solid #362953;
+    margin-bottom: 15px;
+    color: #e0d9f6;
+}
+
+.bio-box {
+    background-color: #120d1a;
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid #362953;
+    color: #e0d9f6;
+    white-space: pre-wrap;
+    margin-top: 5px;
+}
+
+.back-btn {
+    display: block;
+    text-align: center;
+    background-color: #7b2cbf;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.back-btn:hover {
+    background-color: #9d4edd;
+}
