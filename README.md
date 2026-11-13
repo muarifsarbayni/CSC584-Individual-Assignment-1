@@ -1,5 +1,14 @@
 # Personal Profile Web Application
 
+## CSC584 Individual Assignment 1
+Name: MUHAMMAD MUARIF WAFIY BIN SARBAYNI
+Student ID: 2026118287
+Programme: CS230 - Bachelor of Computer Science
+Course code: CSC584 - Enterprise Programming
+Lecturer name: MUHAMAD RIDHWAN MOHAMAD RAZALI
+
+---
+
 ## Project Overview
 This project is an Enterprise Engineering web application created for **CSC584 Individual Assignment 1**. The application collects personal profile details through an HTML form, processes the input using a Java Servlet via `HTTP POST`, and displays the submitted details dynamically on a JSP page.
 
